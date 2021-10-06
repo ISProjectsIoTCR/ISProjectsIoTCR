@@ -1,13 +1,12 @@
- 👋 IS Projects Open Source es un repositorio con Tecnología Educativa.
+ 👋 IoTCosta Rica Open Source es un repositorio con Tecnología Educativa.
  
                   - 👀 Internet de las Cosas...
                   - 💞️ Física, Química, Biología ...
                   - 🌱 Agricultura Familiar ...
                   - 📫 Impresión 3D ...
+                  
+Mediante estos proyectos logramos únir 3 pasiones: Ser Agricultor(nacimiento) + Fiebre por los microcontroladores(hobby) + formación Profesional(trabajo)
 
 <!---
 
-
-ISProjectsIoTCR/ISProjectsIoTCR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
